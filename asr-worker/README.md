@@ -34,7 +34,7 @@ ASR_TASK_SERVER_URL=wss://
 
 ```bash
 conda create -n xiaozhi python=3.12
-codna activate xiaozhi
+conda activate xiaozhi
 
 pip install -r requirements.txt
 python app.py
